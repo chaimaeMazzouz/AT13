@@ -1,0 +1,10 @@
+C:\Users\MZ\source\repos\AT13_Exercice2\AT13_Exercice2\bin\Debug\AT13_Exercice2.exe.config
+C:\Users\MZ\source\repos\AT13_Exercice2\AT13_Exercice2\bin\Debug\AT13_Exercice2.exe
+C:\Users\MZ\source\repos\AT13_Exercice2\AT13_Exercice2\bin\Debug\AT13_Exercice2.pdb
+C:\Users\MZ\source\repos\AT13_Exercice2\AT13_Exercice2\obj\Debug\AT13_Exercice2.csprojAssemblyReference.cache
+C:\Users\MZ\source\repos\AT13_Exercice2\AT13_Exercice2\obj\Debug\AT13_Exercice2.CompagnieVoyage.resources
+C:\Users\MZ\source\repos\AT13_Exercice2\AT13_Exercice2\obj\Debug\AT13_Exercice2.Properties.Resources.resources
+C:\Users\MZ\source\repos\AT13_Exercice2\AT13_Exercice2\obj\Debug\AT13_Exercice2.csproj.GenerateResource.cache
+C:\Users\MZ\source\repos\AT13_Exercice2\AT13_Exercice2\obj\Debug\AT13_Exercice2.csproj.CoreCompileInputs.cache
+C:\Users\MZ\source\repos\AT13_Exercice2\AT13_Exercice2\obj\Debug\AT13_Exercice2.exe
+C:\Users\MZ\source\repos\AT13_Exercice2\AT13_Exercice2\obj\Debug\AT13_Exercice2.pdb
